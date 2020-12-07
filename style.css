@@ -1,0 +1,12 @@
+#body{
+    background-image: url("https://cdn2.vectorstock.com/i/1000x1000/52/26/colored-pencils-isolated-on-white-background-vector-10365226.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+#mycanvas{
+    border-width: 10px;
+    border-style: ridge;
+    background-color:white ;
+}
